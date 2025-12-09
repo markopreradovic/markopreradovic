@@ -1,4 +1,4 @@
-## 💼 Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Experienced With
 
