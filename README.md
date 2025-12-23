@@ -14,7 +14,7 @@
 
 ---
 
-### Currently Learning & Familiar
+### Currently Learning / Familiar With
 <div align="center">
 
 | Category                  | Technologies                                                                 |
