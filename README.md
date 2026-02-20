@@ -1,5 +1,6 @@
-## Tech Stack & Skills
 <div align="center">
+
+## Tech Stack & Skills
 
 | Category                  | Experienced With | Currently Learning / Familiar With |
 |:-------------------------:|:----------------:|:----------------------------------:|
@@ -10,3 +11,5 @@
 | **Tools & Systems**       | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white) | |
 
 </div>
+
+<br/>
