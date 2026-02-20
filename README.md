@@ -13,3 +13,9 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=markopreradovic&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=markopreradovic&theme=react&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
+</div>
