@@ -12,8 +12,6 @@
 
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=markopreradovic&layout=compact&theme=synthwave&hide_border=true" height="180" alt="Top Languages"/>
   &nbsp;&nbsp;&nbsp;
