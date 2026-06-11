@@ -1,69 +1,9 @@
-## Tech Stack & Skills
+I'm a **.NET Backend Engineer** who loves building solid, scalable APIs with **C#**, **.NET**, and **ASP.NET Core**, usually backed by **SQL Server**, **PostgreSQL**, or **MySQL**.
 
-<table width="100%">
-<tr>
-<td width="25%"><b>Category</b></td>
-<td width="75%"><b>Technical Skills</b></td>
-</tr>
+I'm also comfortable outside the .NET world — I've worked with **Java** and **Spring Boot**, and I can happily jump to the frontend with **Angular**, **JavaScript**, **HTML5**, and **CSS3** when a project needs it. I've used **MongoDB** for document-based projects too.
 
-<tr>
-<td><b>Languages</b></td>
-<td>
+My background in **C** and **C++** taught me to care about performance and clean design, and I use **Python** all the time for scripting and quick prototypes.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+For day-to-day work, I live in **Linux**, version everything with **Git**, and ship things in **Docker** containers.
 
-</td>
-</tr>
-
-<tr>
-<td><b>Frameworks & Platforms</b></td>
-<td>
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Web</b></td>
-<td>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Databases</b></td>
-<td>
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Tools & Systems</b></td>
-<td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td>
-</tr>
-
-</table>
+Always happy to learn something new and write code that's nice to come back to.
