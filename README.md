@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**markopreradovic/markopreradovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│  BACKEND .NET DEVELOPER @ ElevateBits                                            │
+│  Final year student @ Faculty of Electrical Engineering                          │
+├─ TECH STACK ─────────────────────────────────────────────────────────────────────┤
+│  Core                        C# · .NET · ASP.NET Core · Minimal APIs · EF Core   │
+│  Databases                   SQL Server · PostgreSQL · MySQL                     │
+│  Caching & Messaging         Redis · RabbitMQ                                    │
+│  Testing                     xUnit · NUnit                                       │
+│  Other Backend               Java · Spring Boot                                  │
+│  Frontend                    Blazor · Angular · JavaScript · HTML5 · CSS3        │
+│  Systems                     C · C++                                             │
+│  Tools & DevOps              Linux · Git · Docker · Azure                        │
+├─ WHAT I DO ──────────────────────────────────────────────────────────────────────┤
+│  API Design                  REST APIs, Minimal APIs, OpenAPI                    │
+│  Architecture                Clean Architecture, CQRS, SOLID                     │
+│  Data                        EF Core, LINQ, T-SQL optimization, migrations       │
+│  Performance & Scalability   Redis caching, RabbitMQ messaging                   │
+│  Security                    JWT, OAuth2                                         │
+│  Reporting                   SSRS / RDL                                          │
+│  Quality                     xUnit, NUnit, code review                           │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
